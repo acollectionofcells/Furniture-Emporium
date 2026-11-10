@@ -1,0 +1,36 @@
+button {
+  background-color: rgb(38, 29, 213);
+  border: solid 5px fuchsia;
+  padding-left: 50px;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(13, 246, 0);
+}
+
+#ergoCouchHeader {
+  color: navy;
+  border: solid gray 30px;
+  color: yellow;
+  background-color: black;
+}
+
+.livingRoom {
+  border: solid coral;
+  background-color: rgb(247, 220, 224);
+  font-style: italic;
+  color: blue;
+  margin: 50px;
+}
+
+article {
+  border: 10px cornflowerblue solid;
+  background-color: lightblue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+  color: deeppink;
+}
